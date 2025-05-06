@@ -2,7 +2,7 @@
 This project demonstrates how to implement a nested set model using Spring Boot and JPA.
 
 ### Used package
-[Spring Boot JPA Nested Set](https://github.com/mewebstudio/spring-boot-jpa-nested-set-kotlin)
+[Spring Boot JPA Nested Set Kotlin](https://github.com/mewebstudio/spring-boot-jpa-nested-set-kotlin)
 
 ### Run with docker compose
 ```bash
